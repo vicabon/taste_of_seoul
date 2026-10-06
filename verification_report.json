@@ -1,0 +1,91 @@
+{
+  "generated_at_utc": "2026-10-06T13:57:56.795739+00:00",
+  "checks": [
+    {
+      "check": "restaurants count",
+      "expected": 100,
+      "actual": 100,
+      "pass": true
+    },
+    {
+      "check": "restaurants unique official IDs",
+      "expected": 100,
+      "actual": 100,
+      "pass": true
+    },
+    {
+      "check": "restaurants official details complete",
+      "expected": 0,
+      "actual": 0,
+      "pass": true
+    },
+    {
+      "check": "restaurants Google Maps query links",
+      "expected": 100,
+      "actual": 100,
+      "pass": true
+    },
+    {
+      "check": "restaurants list/detail name-address-category cross-check",
+      "expected": 0,
+      "actual": 0,
+      "pass": true
+    },
+    {
+      "check": "restaurants Google Maps query content cross-check",
+      "expected": 0,
+      "actual": 0,
+      "pass": true
+    },
+    {
+      "check": "restaurants official Korean name matches",
+      "expected": 100,
+      "actual": 100,
+      "pass": true
+    },
+    {
+      "check": "cafes count",
+      "expected": 50,
+      "actual": 50,
+      "pass": true
+    },
+    {
+      "check": "cafes unique official IDs",
+      "expected": 50,
+      "actual": 50,
+      "pass": true
+    },
+    {
+      "check": "cafes official details complete",
+      "expected": 0,
+      "actual": 0,
+      "pass": true
+    },
+    {
+      "check": "cafes Google Maps query links",
+      "expected": 50,
+      "actual": 50,
+      "pass": true
+    },
+    {
+      "check": "cafes list/detail name-address-category cross-check",
+      "expected": 0,
+      "actual": 0,
+      "pass": true
+    },
+    {
+      "check": "cafes Google Maps query content cross-check",
+      "expected": 0,
+      "actual": 0,
+      "pass": true
+    },
+    {
+      "check": "cafes official Korean name matches",
+      "expected": 50,
+      "actual": 50,
+      "pass": true
+    }
+  ],
+  "all_pass": true,
+  "list_snapshots": []
+}
