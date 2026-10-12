@@ -1,88 +1,203 @@
 {
-  "generated_at_utc": "2026-10-06T13:57:56.795739+00:00",
+  "generated_at_utc": "2026-10-12T11:34:49.351123+00:00",
+  "total_count": 241,
   "checks": [
     {
-      "check": "restaurants count",
+      "check": "Taste of Seoul restaurants count",
       "expected": 100,
       "actual": 100,
       "pass": true
     },
     {
-      "check": "restaurants unique official IDs",
+      "check": "Taste of Seoul restaurants unique IDs",
       "expected": 100,
       "actual": 100,
       "pass": true
     },
     {
-      "check": "restaurants official details complete",
-      "expected": 0,
-      "actual": 0,
-      "pass": true
-    },
-    {
-      "check": "restaurants Google Maps query links",
+      "check": "Taste of Seoul restaurants English & Korean names present",
       "expected": 100,
       "actual": 100,
       "pass": true
     },
     {
-      "check": "restaurants list/detail name-address-category cross-check",
-      "expected": 0,
-      "actual": 0,
-      "pass": true
-    },
-    {
-      "check": "restaurants Google Maps query content cross-check",
-      "expected": 0,
-      "actual": 0,
-      "pass": true
-    },
-    {
-      "check": "restaurants official Korean name matches",
+      "check": "Taste of Seoul restaurants Food Category & Region classified",
       "expected": 100,
       "actual": 100,
       "pass": true
     },
     {
-      "check": "cafes count",
-      "expected": 50,
-      "actual": 50,
+      "check": "Taste of Seoul restaurants Chinese & English official descriptions present",
+      "expected": 100,
+      "actual": 100,
       "pass": true
     },
     {
-      "check": "cafes unique official IDs",
-      "expected": 50,
-      "actual": 50,
+      "check": "Taste of Seoul restaurants Google Maps query links",
+      "expected": 100,
+      "actual": 100,
       "pass": true
     },
     {
-      "check": "cafes official details complete",
+      "check": "Taste of Seoul restaurants Official Detail links present",
+      "expected": 100,
+      "actual": 100,
+      "pass": true
+    },
+    {
+      "check": "Taste of Seoul restaurants Google Maps query restaurant name/address cross-check",
       "expected": 0,
       "actual": 0,
       "pass": true
     },
     {
-      "check": "cafes Google Maps query links",
+      "check": "Taste of Seoul cafes count",
       "expected": 50,
       "actual": 50,
       "pass": true
     },
     {
-      "check": "cafes list/detail name-address-category cross-check",
-      "expected": 0,
-      "actual": 0,
-      "pass": true
-    },
-    {
-      "check": "cafes Google Maps query content cross-check",
-      "expected": 0,
-      "actual": 0,
-      "pass": true
-    },
-    {
-      "check": "cafes official Korean name matches",
+      "check": "Taste of Seoul cafes unique IDs",
       "expected": 50,
       "actual": 50,
+      "pass": true
+    },
+    {
+      "check": "Taste of Seoul cafes English & Korean names present",
+      "expected": 50,
+      "actual": 50,
+      "pass": true
+    },
+    {
+      "check": "Taste of Seoul cafes Food Category & Region classified",
+      "expected": 50,
+      "actual": 50,
+      "pass": true
+    },
+    {
+      "check": "Taste of Seoul cafes Chinese & English official descriptions present",
+      "expected": 50,
+      "actual": 50,
+      "pass": true
+    },
+    {
+      "check": "Taste of Seoul cafes Google Maps query links",
+      "expected": 50,
+      "actual": 50,
+      "pass": true
+    },
+    {
+      "check": "Taste of Seoul cafes Official Detail links present",
+      "expected": 50,
+      "actual": 50,
+      "pass": true
+    },
+    {
+      "check": "Taste of Seoul cafes Google Maps query restaurant name/address cross-check",
+      "expected": 0,
+      "actual": 0,
+      "pass": true
+    },
+    {
+      "check": "Blue Ribbon Survey 3 Ribbons restaurants count",
+      "expected": 42,
+      "actual": 42,
+      "pass": true
+    },
+    {
+      "check": "Blue Ribbon Survey 3 Ribbons restaurants unique IDs",
+      "expected": 42,
+      "actual": 42,
+      "pass": true
+    },
+    {
+      "check": "Blue Ribbon Survey 3 Ribbons restaurants English & Korean names present",
+      "expected": 42,
+      "actual": 42,
+      "pass": true
+    },
+    {
+      "check": "Blue Ribbon Survey 3 Ribbons restaurants Food Category & Region classified",
+      "expected": 42,
+      "actual": 42,
+      "pass": true
+    },
+    {
+      "check": "Blue Ribbon Survey 3 Ribbons restaurants Chinese & English official descriptions present",
+      "expected": 42,
+      "actual": 42,
+      "pass": true
+    },
+    {
+      "check": "Blue Ribbon Survey 3 Ribbons restaurants Google Maps query links",
+      "expected": 42,
+      "actual": 42,
+      "pass": true
+    },
+    {
+      "check": "Blue Ribbon Survey 3 Ribbons restaurants Official Detail links present",
+      "expected": 42,
+      "actual": 42,
+      "pass": true
+    },
+    {
+      "check": "Blue Ribbon Survey 3 Ribbons restaurants Google Maps query restaurant name/address cross-check",
+      "expected": 0,
+      "actual": 0,
+      "pass": true
+    },
+    {
+      "check": "Blue Ribbon Survey 2 Ribbons cafes/bakeries count",
+      "expected": 49,
+      "actual": 49,
+      "pass": true
+    },
+    {
+      "check": "Blue Ribbon Survey 2 Ribbons cafes/bakeries unique IDs",
+      "expected": 49,
+      "actual": 49,
+      "pass": true
+    },
+    {
+      "check": "Blue Ribbon Survey 2 Ribbons cafes/bakeries English & Korean names present",
+      "expected": 49,
+      "actual": 49,
+      "pass": true
+    },
+    {
+      "check": "Blue Ribbon Survey 2 Ribbons cafes/bakeries Food Category & Region classified",
+      "expected": 49,
+      "actual": 49,
+      "pass": true
+    },
+    {
+      "check": "Blue Ribbon Survey 2 Ribbons cafes/bakeries Chinese & English official descriptions present",
+      "expected": 49,
+      "actual": 49,
+      "pass": true
+    },
+    {
+      "check": "Blue Ribbon Survey 2 Ribbons cafes/bakeries Google Maps query links",
+      "expected": 49,
+      "actual": 49,
+      "pass": true
+    },
+    {
+      "check": "Blue Ribbon Survey 2 Ribbons cafes/bakeries Official Detail links present",
+      "expected": 49,
+      "actual": 49,
+      "pass": true
+    },
+    {
+      "check": "Blue Ribbon Survey 2 Ribbons cafes/bakeries Google Maps query restaurant name/address cross-check",
+      "expected": 0,
+      "actual": 0,
+      "pass": true
+    },
+    {
+      "check": "Total integrated catalog count",
+      "expected": 241,
+      "actual": 241,
       "pass": true
     }
   ],
