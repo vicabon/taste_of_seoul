@@ -157,6 +157,126 @@ BLUE_RIBBON_2_META = {
     "JL디저트바": "JL Dessert Bar",
 }
 
+OFFICIAL_URLS_BR3 = {
+    "기가스": "https://www.instagram.com/gigas_seoul/",
+    "라연": "https://www.shillahotels.com/seoul/dining/layeon.do",
+    "가겐 by 최준호": "https://www.instagram.com/gaggen_seoul",
+    "강민철레스토랑": "https://www.instagram.com/kangminchul_restaurant/",
+    "고료리켄": "https://www.instagram.com/ichieseoul",
+    "권숙수": "http://kwonsooksoo.com/",
+    "다이닝마": "https://www.instagram.com/diningma1111/",
+    "더그린테이블": "https://www.instagram.com/restaurant_thegreentable/",
+    "도림": "https://www.lottehotel.com/seoul-hotel/en/dining/tohlim.html",
+    "도원S": "https://www.instagram.com/theplazadining",
+    "라망시크레": "https://www.instagram.com/lamant_secret/",
+    "라미띠에": "https://www.instagram.com/restaurant_lamitie/",
+    "레스쁘아": "https://www.instagram.com/lespoirseoul/",
+    "모수서울": "https://www.instagram.com/mosuseoul/",
+    "무오키": "https://www.instagram.com/muoki.seoul/",
+    "미토우": "https://www.instagram.com/mitouseoul",
+    "미피아체": "https://www.instagram.com/restaurant_mipiace",
+    "밍글스": "https://www.instagram.com/mingles_restaurant/",
+    "벽제갈비더청담": "https://www.instagram.com/the_bjgalbi/",
+    "본앤브레드": "https://www.instagram.com/bornandbredkorea",
+    "봉래헌": "https://www.mayfield.co.kr/dining/bongraeheon.html",
+    "비스트로드욘트빌": "https://www.instagram.com/yountvillebistro/",
+    "삼원가든": "https://www.instagram.com/dinehill_official/",
+    "세븐스도어": "https://www.instagram.com/7thdoor_official/",
+    "소수헌": "https://www.instagram.com/kjpark03149",
+    "소울다이닝": "https://www.instagram.com/souldining_seoul/",
+    "솔밤": "https://www.instagram.com/solbam_restaurant/",
+    "스시조": "https://www.josunhotel.com",
+    "스와니예": "https://www.instagram.com/soigneseoul/",
+    "아리아께": "https://www.shillahotels.com",
+    "알라프리마": "https://www.instagram.com/restaurant_allaprima/",
+    "온지음레스토랑": "https://www.instagram.com/onjium_restaurant/",
+    "이타닉가든": "https://www.instagram.com/eatanicgarden/",
+    "정식당": "https://www.instagram.com/jungsik_inc/",
+    "제로컴플렉스": "https://www.instagram.com/zerocomplex_seoul",
+    "쵸이닷": "https://www.instagram.com/choidot_official/",
+    "콘티넨탈": "https://www.shillahotels.com",
+    "테이블포포": "https://www.instagram.com/tableforfour_official",
+    "팔선": "https://www.shillahotels.com",
+    "한국의집": "https://www.instagram.com/koreahouse_official/",
+    "호빈": "https://www.instagram.com/theambassador_haobin/",
+    "홍보각": "https://www.instagram.com/hongbogak_official/",
+}
+
+OFFICIAL_URLS_BR2 = {
+    "경인미술관전통다원": "http://www.kyunginart.co.kr",
+    "나무사이로내자": "https://www.instagram.com/namusairocoffee",
+    "다만프레르": "https://www.instagram.com/dammannfreres_sfc/",
+    "다크에디션커피": "https://www.instagram.com/darkeditioncoffee/",
+    "디폴트밸류": "https://defaultvalue.kr",
+    "딥블루레이크": "https://www.instagram.com/deepbluelake_mangwon/",
+    "메쉬커피": "https://www.instagram.com/meshcoffee",
+    "스몰배치서울": "https://www.instagram.com/smallbatch.seoul/",
+    "아이덴티티커피랩": "https://www.instagram.com/identity_coffeelab/",
+    "엘카페커피로스터스": "https://www.instagram.com/elcafecoffeeroasters",
+    "커피리브레": "https://www.instagram.com/coffeelibre_yeonnam",
+    "커피몽타주": "https://www.instagram.com/coffeemontage",
+    "펠트커피(청계천점)": "https://www.instagram.com/felt_seoul/",
+    "프릳츠": "https://www.instagram.com/fritzcoffeecompany",
+    "JL디저트바": "https://www.instagram.com/jldessertbar",
+    "기욤": "https://www.instagram.com/guillaume_seoul/?igshid=1wyqia5da7r8c",
+    "김씨부인": "https://www.instagram.com/kimssibooin_korean_dessert/",
+    "당옥": "https://www.instagram.com/dangok_sinsa/",
+    "듀자미": "https://www.instagram.com/deuxamis_patisserie_seoul/",
+    "마얘": "https://www.instagram.com/maillet_patisseriefrancaise/",
+    "메종드조에": "https://www.instagram.com/maison_de_zoe",
+    "메종엠오": "https://www.instagram.com/maison_m.o/",
+    "밀갸또": "https://www.instagram.com/mille_gateaux_/",
+    "비원떡집": "https://www.instagram.com/biwon1949/",
+    "삐아프": "https://www.instagram.com/piaf_artisan_chocolatier/",
+    "소나": "https://www.instagram.com/sona_seoul/",
+    "스위트에삐": "https://www.instagram.com/sweets_epi/",
+    "스틱윗미": "https://www.instagram.com/swmsweetskorea",
+    "아도르": "https://www.instagram.com/adoreofficial",
+    "앨리스프로젝트": "https://www.instagram.com/alice.project_seoul/",
+    "오뗄두스": "https://www.instagram.com/hoteldouce/",
+    "오쁘띠베르": "https://www.instagram.com/auxpetitsverres",
+    "젠제로": "https://www.instagram.com/zenzero.seoul/",
+    "파티세리뮤흐": "https://www.instagram.com/mur_patisserie",
+    "펠앤콜": "https://www.instagram.com/fellncole/",
+    "피에트라": "https://www.instagram.com/gelateria_pietra/",
+    "합": "https://www.instagram.com/haap2010/",
+    "호원당": "https://www.howondang.co.kr",
+    "김영모과자점": "https://www.instagram.com/kimyoungmo_official/",
+    "나폴레옹과자점": "https://www.instagram.com/napoleon.bakery",
+    "르빵": "https://www.instagram.com/lepain_seoul",
+    "베통성수더플래그십": "https://www.instagram.com/beton.kr/",
+    "소금집델리": "https://salthousekorea.com",
+    "어니언(안국점)": "https://www.instagram.com/cafe.onion",
+    "오월의종": "https://www.instagram.com/maybell__bakery/",
+    "크레미엘": "https://www.instagram.com/patisserie_cremiel",
+    "폴앤폴리나": "https://www.instagram.com/paul.and.paulina/",
+    "프레드므아청담": "https://www.instagram.com/boulangerie_pres_de_moi/",
+    "플라워아티장베이커리(가로수길점)": "https://www.instagram.com/flourartisanbakery",
+}
+
+FALLBACK_IMAGES_BR2 = {
+    # 1. 딥블루레이크: 招牌水果香特調 Blue Blending 精品手沖咖啡豆與風味品飲卡
+    "딥블루레이크": "https://m.dblcoffee.com/web/product/big/202510/9bf6909a68268bb36da798fd990d49a8.jpg",
+    # 2. 메쉬커피: 聖水洞代表手作拿鐵 (Latte Art) 與特調濃縮 Cortado
+    "메쉬커피": "https://www.esquirekorea.co.kr/resources_old/online/org_online_image/eq/df630691-f75a-4b24-af90-c8385ead79b2.jpg",
+    # 3. 스몰배치서울: 招牌墨爾本精品澳白 (Flat White) 與卡布奇諾 (Huskee 經典環保杯拉花)
+    "스몰배치서울": "https://the-edit.co.kr/wp-content/uploads/2022/04/1400_retouched_add-48.jpg",
+    # 4. 펠트커피(청계천점): 招牌 Classic Espresso & Seasonal Espresso 特選綜合咖啡豆
+    "펠트커피(청계천점)": "https://img-cf.kurly.com/hdims/resize/%5E%3E720x%3E936/cropcenter/720x936/quality/85/src/shop/data/goods/1612338796709l0.jpg",
+    # 5. 오쁘띠베르: 招牌法式經典檸檬塔 (Lemon Tart)、巧克力甘納許塔、草莓水果塔
+    "오쁘띠베르": "https://tasteofseoul.visitseoul.net:443/superboard/data/restaurant_eng/thumb/20260930100307_6abc5fcbaa831_9c8b8a18be7dbd062afee0711f7323592320ae9c.jpg",
+    # 6. 파티세리뮤흐: PÂTISSERIE MÛR 招牌奢華甜點蛋糕與切片磅蛋糕 (시트롱파운드/브랜디케이크)
+    "파티세리뮤흐": "https://t1.daumcdn.net/news/202501/29/moneyweek/20250129051815557yvuz.jpg",
+    # 7. 호원당: 朝鮮高宗皇帝御用代表名點厚餅 (두텁떡(긴줄))
+    "호원당": "https://www.howondang.co.kr/upload_data/goods/20230703[18].jpg",
+    # 8. 나폴레옹과자점: 首爾三大元祖麵包店招牌「沙拉麵包」(사라다빵)
+    "나폴레옹과자점": "https://ik.imagekit.io/napoleonbakery/tr:w-800/binaryfile/processed/a4f6eb2fd49552299e4c02eae078d735591b76036e6e662e86cf769a133d32d1",
+    # 9. 소금집델리: 招牌火腿奶油三明治「Jambon Beurre」(잠봉뵈르)
+    "소금집델리": "https://m.salthousekorea.com/web/product/big/202503/794304adeb75ff0551082f53ee7b1a34.jpg",
+    # 10. 어니언(안국점): 安國韓屋門市招牌雪白糖霜潘多洛 (팡도르 Pandoro) 與紅豆奶油麵包 (앙버터)
+    "어니언(안국점)": "https://tasteofseoul.visitseoul.net:443/superboard/data/restaurant_eng/20260930100207_6abc5f8fd6647_733ef74d1fc5755eee0743dc0b9a44a7a5180e1b.jpg",
+}
+
 
 def get(url):
     last_error = None
@@ -357,12 +477,14 @@ def enrich_blue_ribbon_data(items_3, url_3, items_2, url_2):
         phone = item["info"].get("전화", "")
         hours = item["info"].get("영업시간", "")
         
+        official_url = OFFICIAL_URLS_BR3.get(name_ko, item.get("official_url", url_3))
+        
         processed.append({
             "id": f"br-3-{idx:02d}",
             "type": "blue_ribbon_3",
             "award": "2027 Blue Ribbon Survey 3 Ribbons (藍絲帶 3 條絲帶)",
             "official_list_url": item.get("official_url", url_3),
-            "official_detail_url": item.get("official_url", url_3),
+            "official_detail_url": official_url,
             "name_from_list": name_en,
             "name": name_en,
             "name_ko": name_ko,
@@ -414,12 +536,15 @@ def enrich_blue_ribbon_data(items_3, url_3, items_2, url_2):
         phone = item["info"].get("전화", "")
         hours = item["info"].get("영업시간", "")
         
+        official_url = OFFICIAL_URLS_BR2.get(name_ko, url_2)
+        img_url = FALLBACK_IMAGES_BR2.get(name_ko) or item["image"]
+        
         processed.append({
             "id": f"br-2-{idx:02d}",
             "type": "blue_ribbon_2",
             "award": "2027 Blue Ribbon Survey 2 Ribbons (藍絲帶 2 條絲帶)",
             "official_list_url": url_2,
-            "official_detail_url": url_2,
+            "official_detail_url": official_url,
             "name_from_list": name_en,
             "name": name_en,
             "name_ko": name_ko,
@@ -428,8 +553,8 @@ def enrich_blue_ribbon_data(items_3, url_3, items_2, url_2):
             "phone": phone,
             "hours": hours,
             "closed": "",
-            "thumbnail": item["image"],
-            "images": [item["image"]] if item["image"] else [],
+            "thumbnail": img_url,
+            "images": [img_url] if img_url else [],
             "categories": [cat_en],
             "categories_zh": [cat_zh],
             "region": region_en,
@@ -661,21 +786,36 @@ def main():
         existing = json.loads(existing_path.read_text(encoding="utf-8"))
         restaurants = existing.get("restaurants", [])
         cafes = existing.get("cafes", [])
+        for c in cafes:
+            if c.get("name") == "Cafe Onion Anguk" and c.get("name_ko") == "더 그린 테이블":
+                c["name_ko"] = "카페 어니언 안국"
     else:
         restaurants, cafes = [], []
 
     print(f"Loaded {len(restaurants)} Taste of Seoul restaurants, {len(cafes)} cafes.")
-    print("Scraping Blue Ribbon Survey 3 Ribbons (magazine 674)...")
-    br3_raw, url_3 = scrape_blue_ribbon_3()
-    print(f"Scraped {len(br3_raw)} 3-Ribbon items.")
+    try:
+        print("Scraping Blue Ribbon Survey 3 Ribbons (magazine 673 & 674)...")
+        br3_raw, url_3 = scrape_blue_ribbon_3()
+        print(f"Scraped {len(br3_raw)} 3-Ribbon items.")
 
-    print("Scraping Blue Ribbon Survey 2 Ribbons (magazine 677)...")
-    br2_raw, url_2 = scrape_blue_ribbon_2()
-    print(f"Scraped {len(br2_raw)} 2-Ribbon items.")
+        print("Scraping Blue Ribbon Survey 2 Ribbons (magazine 677)...")
+        br2_raw, url_2 = scrape_blue_ribbon_2()
+        print(f"Scraped {len(br2_raw)} 2-Ribbon items.")
 
-    print("Enriching translations and details for Blue Ribbon items...")
-    br3_items, br2_items = enrich_blue_ribbon_data(br3_raw, url_3, br2_raw, url_2)
-    print(f"Enriched {len(br3_items)} 3-Ribbon items and {len(br2_items)} 2-Ribbon items.")
+        print("Enriching translations and details for Blue Ribbon items...")
+        br3_items, br2_items = enrich_blue_ribbon_data(br3_raw, url_3, br2_raw, url_2)
+        print(f"Enriched {len(br3_items)} 3-Ribbon items and {len(br2_items)} 2-Ribbon items.")
+    except Exception as e:
+        print(f"Notice: Live scraping could not reach server ({e}). Using existing cached items with updated images and metadata.")
+        br3_items = existing.get("blue_ribbon_3", [])
+        br2_items = existing.get("blue_ribbon_2", [])
+        for item in br2_items:
+            name_ko = item.get("name_ko")
+            if name_ko in FALLBACK_IMAGES_BR2:
+                item["thumbnail"] = FALLBACK_IMAGES_BR2[name_ko]
+                item["images"] = [FALLBACK_IMAGES_BR2[name_ko]]
+            if name_ko in OFFICIAL_URLS_BR2:
+                item["official_detail_url"] = OFFICIAL_URLS_BR2[name_ko]
 
     data = {
         "restaurants": restaurants,
